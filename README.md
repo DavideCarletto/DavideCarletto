@@ -16,7 +16,5 @@ I am a **Computer Engineering** student at **Politecnico di Torino**, currently 
 When I'm not training models, you'll probably find me on a **tennis** court—a passion I've had since childhood. I am also fascinated by **3D modeling** and I'm looking forward to getting my first 3D printer to bring my digital designs to life.
 
 ### 📫 Connect with me
-
-### 📫 Connect with me
 - **LinkedIn:** [davidecarletto](https://www.linkedin.com/in/davidecarletto)
 - **Email:** [carlettodavide@gmail.com](mailto:carlettodavide@gmail.com)
