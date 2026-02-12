@@ -3,9 +3,9 @@
 I am a **Computer Engineering** student at **Politecnico di Torino**, currently completing my Master's degree in **Artificial Intelligence and Data Analytics**. I am passionate about the vast world of AI and I'm in the final stages of my academic journey.
 
 ### 🤖 What I'm up to
-- 🎓 Finalizing my Master's degree (focusing on my final exam and thesis).
-- 🧠 Exploring the **AI ecosystem**, from general machine learning models to advanced architectures.
-- 🦀 Enhancing my programming skills in **Rust** and **C** alongside my AI research.
+- Finalizing my Master's degree (focusing on my final exam and thesis).
+- Exploring the **AI ecosystem**, from general machine learning models to advanced architectures.
+- Enhancing my programming skills in **Rust** and **C** alongside my AI research.
 
 ### 🛠️ Tech Stack & Interests
 - **AI & Deep Learning:** Python (PyTorch, NumPy, Scikit-learn, etc.)
