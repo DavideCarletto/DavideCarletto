@@ -13,7 +13,9 @@ I am a **Computer Engineering** student at **Politecnico di Torino**, currently 
 - **Core Interests:** Deep Learning, Artificial Intelligence, Data Analysis, and Computer Vision.
 
 ### 🎾 Beyond Coding
-When I'm not training models, you'll probably find me on a **tennis** court—a passion I've had since childhood. I am also very interested in **3D modeling** and I look forward to exploring the world of 3D printing soon.
+When I'm not training models, you'll probably find me on a **tennis** court—a passion I've had since childhood. I am also fascinated by **3D modeling** and I'm looking forward to getting my first 3D printer to bring my digital designs to life.
+
+### 📫 Connect with me
 
 ### 📫 Connect with me
 - **LinkedIn:** [davidecarletto](https://www.linkedin.com/in/davidecarletto)
